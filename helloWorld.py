@@ -1,0 +1,5 @@
+print('Hello World')
+print (1+1)
+print ('3 + 3')
+print ('ask' * 3)
+print ('ask ' + 'Avigail!')
